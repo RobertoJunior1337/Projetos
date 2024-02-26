@@ -1,0 +1,5 @@
+discord.js
+@discordjs/voice
+fs
+quick.db
+better-sqlite3
